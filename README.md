@@ -2,7 +2,7 @@
 
 I participated in the 2016 Global Gam Jam with my two sons and a couple of my friends from work.  The theme of the game jam was "Ritual".  Going into the Game Jam we had decided before hand to make a Descent like clone (or get as far as we could on this in 48 hours).
 
-The game we made is called Relic Hunter.  Below is the intro screen to our game:
+The game we made is called Relic Hunter.  
 
 ## Disclaimer
 
